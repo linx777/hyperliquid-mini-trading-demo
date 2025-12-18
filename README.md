@@ -1,6 +1,6 @@
 # Hyperliquid Trading Interface
 
-A simple trading interface for HyperLiquid that supports Market, Limit, Scale, and TWAP orders with advanced leverage and margin mode controls, real-time price updates, and sophisticated order management.
+A simple trading interface for HyperLiquid that supports Market, Limit, Scale, and TWAP orders with advanced leverage and margin mode controls, real-time price updates, and order management.
 
 ## 🔄 Recent Updates
 
